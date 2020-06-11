@@ -1,4 +1,4 @@
-# Rough T-Rex Game
+# Rough T-Rex Game (Jumping Elephant)
 ## Description 
 A repository for SCU (not Santa Clara) C++ course (aka 高级语言程序设计II) group term project.
 
