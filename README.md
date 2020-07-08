@@ -1,6 +1,6 @@
 # Rough T-Rex Game (Jumping Elephant)
 ## Description 
-A repository for SCU (not Santa Clara) C++ course (aka 高级语言程序设计II) group term project.
+A repository for SCU C++ course (aka 高级语言程序设计II) group term project.
 
 ## Introduction 
 A rough chrome T-Rex game, base on [EGE 19.01](https://xege.org/). 
