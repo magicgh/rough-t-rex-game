@@ -24,7 +24,7 @@ Jumping-Elephant
 ```
 
 ## Contributors
-* jhcgaisc 
+* [Rushfinen] (https://github.com/Rushfinen)
 * [magicgh](https://github.com/magicgh)
 * ciri
 * Via
