@@ -32,8 +32,6 @@ Jumping-Elephant
 ## Acknowledgement
 * [Ericsii](https://github.com/Ericsii)
   
-## Screenshot
-![screenshot](https://i.loli.net/2020/06/12/7pnVq6BRDrOKcby.gif)
 
 ## LICENSE
 [MIT License](https://mit-license.org/)
